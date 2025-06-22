@@ -12,6 +12,7 @@ Sistem ini memanfaatkan platform **Blogspot** sebagai media pengarsipan surat di
 4. Masukkan **Label**:
    - `arsip` (**wajib**)
    - `surat masuk` atau `surat keluar` (**opsional**, tergantung jenis arsip)
+![Cara Upload](https://github.com/YusupMC/Arsip-Dokumen/blob/main/cara-upload.png)
 
 ---
 
