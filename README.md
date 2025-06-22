@@ -8,7 +8,7 @@ Sistem ini memanfaatkan platform **Blogspot** sebagai media pengarsipan surat di
 
 1. Masuk ke **Menu Postingan** di dashboard Blogspot.
 2. Klik **Tambah Postingan**.
-3. **Copy isian postingan** yang tersedia di file [`contoh-postingan.html`](https://github.com/YusupMC/Arsip-Dokumen/blob/main/isi-postingan.html) di repository ini.
+3. **Copy isian postingan** yang tersedia di file [`isi-postingan.html`](https://github.com/YusupMC/Arsip-Dokumen/blob/main/isi-postingan.html) di repository ini.
 4. Masukkan **Label**:
    - `arsip` (**wajib**)
    - `surat masuk` atau `surat keluar` (**opsional**, tergantung jenis arsip)
