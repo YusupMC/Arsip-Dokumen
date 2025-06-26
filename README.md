@@ -47,6 +47,14 @@ Sistem ini memanfaatkan platform **Blogspot** sebagai media pengarsipan surat di
 
 ---
 
+![Version](https://img.shields.io/badge/version-v2-blue)
+
+> **Versi:** `V2`  
+> Rilis kedua dari sistem Lisensi Blogger dengan penambahan fitur:
+> - Otomatis Link Blogspot tanpa perlu memasukan link blogspot secara manual
+
+---
+
 ## 📝 Catatan
 - Pastikan **ID Dokumen Google Drive** bersifat publik agar dapat diakses semua orang.
 - Gunakan mode **HTML** saat menulis postingan agar tag `<a>` dan `<br>` berfungsi dengan baik.
