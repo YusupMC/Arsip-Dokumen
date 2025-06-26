@@ -176,7 +176,7 @@
 </div>
 
 <script>
-  const blogURL = "https://Nama-Blogspot-Kamu.blogspot.com";
+  const blogURL = location.origin;
   const arsipFeed = blogURL + "/feeds/posts/default/-/arsip?alt=json&max-results=100";
 
   let arsipData = [];
